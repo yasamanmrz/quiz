@@ -21,6 +21,6 @@ The layout automatically adapts to different screen sizes, ensuring a consistent
 
 <ul>
   <li>
-    <a href="https://yasamanmrz.github.io/quiz/index.html">live demo</a>
+    <a href="https://yasamanmrz.github.io/quiz/src/index.html">live demo</a>
   </li>
 </ul>

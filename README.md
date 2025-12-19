@@ -1,2 +1,26 @@
 # quiz
-this project was created as a practice project
+🧠 Simple Quiz Application
+This project is a simple and interactive quiz application that includes 10 multiple-choice questions.
+It is designed to be lightweight, easy to use, and fully responsive across different screen sizes.
+🚀 Features
+• 10 carefully structured multiple-choice questions
+• Fully responsive design (works on mobile, tablet, and desktop)
+• Clean and minimal user interface
+• Smooth user interaction and easy navigation between questions
+• Beginner-friendly project structure
+• Suitable for practicing JavaScript logic and DOM manipulation
+🛠 Built With
+• HTML – for structuring the content
+• CSS – for styling and responsive layout
+• JavaScript – for handling quiz logic and user interactions
+🎯 Purpose
+This project was created as a practice project to improve front-end development skills, especially working with JavaScript, user input handling, and responsive design.
+📱 Responsive Design
+The layout automatically adapts to different screen sizes, ensuring a consistent and user-friendly experience on all devices.
+<img width="1920" height="1030" alt="Document - Google Chrome 12_19_2025 6_35_21 PM" src="https://github.com/user-attachments/assets/a03537b4-601b-4351-b088-fa04f5a96b98" />
+
+<ul>
+  <li>
+    <a href="https://yasamanmrz.github.io/quiz/">live demo</a>
+  </li>
+</ul>
